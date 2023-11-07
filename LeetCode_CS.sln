@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinOperationsToMakeAlternat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{57B121C0-6D5F-4A45-9639-42F815B2E750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{0F85A11E-A5C1-4F82-BCF6-3AC868C32800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{0F85A11E-A5C1-4F82-BCF6-3AC868C32800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardestWorker", "HardestWorker\HardestWorker.csproj", "{9EEF01D9-C917-4408-ACFA-950EAAA24A61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{0F85A11E-A5C1-4F82-BCF6-3AC868C32800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F85A11E-A5C1-4F82-BCF6-3AC868C32800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F85A11E-A5C1-4F82-BCF6-3AC868C32800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEF01D9-C917-4408-ACFA-950EAAA24A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEF01D9-C917-4408-ACFA-950EAAA24A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEF01D9-C917-4408-ACFA-950EAAA24A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEF01D9-C917-4408-ACFA-950EAAA24A61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
