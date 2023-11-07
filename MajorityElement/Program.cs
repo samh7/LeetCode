@@ -1,6 +1,4 @@
-﻿using System.Reflection;
-
-namespace MajorityElement
+﻿namespace MajorityElement
 {
     internal class Program
     {
